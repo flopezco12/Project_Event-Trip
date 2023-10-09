@@ -51,11 +51,15 @@ It is important to note that, while the correlation coefficient describes the st
       Null hypothesis: There is no correlation between the number of tourism spots and a vacation rental’s rating.
 
   - The statistical correlational analysis produced the following results:
-        Average rating versus review count produed R-value of 0.0176 with a P-value of 
-        Average rating versus number of entertainment spots gave an R-value of 0.0003  with a P-value of 
-        Average rating versus number of spa spots gave R-value of  0.0695  with a P-value of 
-        Average rating versus number of activity centres gave R-value 0.00823  with a P-value of 
-        Average rating versus number of tourism spots gave R-value 0.00215  with a P-value of
+ 
+
+        Average rating versus review count produed R-value of 0.0176 with a P-value of 0.1932
+        Average rating versus number of entertainment spots gave an R-value of 0.0003  with a P-value of 0.8455
+        Average rating versus number of spa spots gave R-value of  0.0695  with a P-value of 0.0087
+        Average rating versus number of activity centres gave R-value 0.00823  with a P-value of 0.3743
+        Average rating versus number of tourism spots gave R-value 0.00215  with a P-value of  0.6502
+        Average rating versus number of water spots gave R-value 0.0003  with a P-value of  0.8765
+     
     
 # The rule of thumb is that for a higher absolute value of the correlation coefficient suggests a stronger linear relationship. Conversely, a statistically significant p-value with a small correlation coefficient might suggest a weak but non-random relationship.
 
