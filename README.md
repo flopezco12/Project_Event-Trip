@@ -72,11 +72,13 @@ It is important to note that, while the correlation coefficient describes the st
 
 # Conclusions
 Based on the resluts above, it we can confidently say that with the weak correlation found proximity to external locations doesn't strongly impact rental ratings.
+In conclusion, our project successfully mined data from TripAdvisor and Geoapify APIs to analyze the relationship between rental ratings in British Columbia and their proximity to external locations. While some weak correlations were observed, further analysis is needed to establish causation and identify other factors influencing ratings. This led us to reject our hypotheses and accept the null hypotheses for all the questions we aimed to explore in this analysis. This project provides a foundation for future investigations into the factors contributing to the success of rental properties in this region.
 
 
 =======
 link to proposal: https://docs.google.com/document/d/1kUnl6Av2m4WT4tr61aMzhTkb4hk4yu_nTW8C0RHNfw4/edit?usp=sharing
 link to powerpoint presentation: https://docs.google.com/presentation/d/1Jpz1d2r5ablezRAFjRA0LAx4tn_ZrYidDcDl8xbE1iA/edit#slide=id.p
+link to analysis: https://docs.google.com/document/d/1DAwpYcRoE6YoVyTZN65g0Py4qnrrPiJTBwC58fUWFPo/edit
 API Documentation: Access search APIs for no charge and provides Up to 5 reviews and 5 photos per location
 
 
