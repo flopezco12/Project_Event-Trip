@@ -32,28 +32,28 @@ It is important to note that, while the correlation coefficient describes the st
 - The Map showed that the data Rentals were spread across different geographical locations within British Columbia, including urban, suburban, and rural areas. However, concentrations of rentals were observed       in popular tourist destinations and major cities namely Vancouver Island and Vancouver.
 - To better understand the data, we develpoed the null and alternate hypothesis as follows to enable us discover specific patterns.
   1.  Relationship between the number of ratings and the average rating value
-        Hypothesis: If a vacation rental receives a high number of ratings, then the average rating of the rental is expected to be higher.
-        Null Hypothesis: There is no significant correlation between the number of ratings a vacation rental receives and the average rating value. 
+        - Hypothesis: If a vacation rental receives a high number of ratings, then the average rating of the rental is expected to be higher.
+        - Null Hypothesis: There is no significant correlation between the number of ratings a vacation rental receives and the average rating value. 
 
   2.  Correlation between the number of entertainment spots and a vacation rental rating
-        Hypothesis: If there are more entertainment spots around a vacation rental, then the vacation rental rating is expected to be higher.
-        Null Hypothesis: There is no significant correlation between the number of entertainment spots around a vacation rental and the rental's rating
+        - Hypothesis: If there are more entertainment spots around a vacation rental, then the vacation rental rating is expected to be higher.
+        - Null Hypothesis: There is no significant correlation between the number of entertainment spots around a vacation rental and the rental's rating
 
   3.  Is there a correlation between the number of spa spots and a vacation rental’s rating?
-        Hypothesis: There is a correlation between the number of spa spots and a vacation rental’s rating. 
-        Null hypothesis: There is no correlation between the number of spa spots and a vacation rental’s rating.
+        - Hypothesis: There is a correlation between the number of spa spots and a vacation rental’s rating. 
+        - Null hypothesis: There is no correlation between the number of spa spots and a vacation rental’s rating.
 
   4.  Is there a correlation between the number of activities (Clubs, community centers) and a vacation rental’s rating?
-        Hypothesis: There is acorrelation/relationship between clubs/community centers and vacation rental ratings. 
-        Null Hypothesis: There is no  correlation between clubs/community  and vacation rental rating. 
+        - Hypothesis: There is acorrelation/relationship between clubs/community centers and vacation rental ratings. 
+        - Null Hypothesis: There is no  correlation between clubs/community  and vacation rental rating. 
 
   5.  Is there a correlation between the number of tourism spots and a vacation rental’s rating?
-        Hypothesis: There is a correlation between the number of tourism spots and a vacation rental’s rating.
-        Null hypothesis: There is no correlation between the number of tourism spots and a vacation rental’s rating.
+        - Hypothesis: There is a correlation between the number of tourism spots and a vacation rental’s rating.
+        - Null hypothesis: There is no correlation between the number of tourism spots and a vacation rental’s rating.
 
   6.  Is there a correlation between the number of water spots and a vacation rental’s rating?
-        Hypothesis: There is a correlation between the number of water spots and a vacation rental’s rating.
-        Null hypothesis: There is no correlation between the number of water spots and a vacation rental’s rating.
+        - Hypothesis: There is a correlation between the number of water spots and a vacation rental’s rating.
+        - Null hypothesis: There is no correlation between the number of water spots and a vacation rental’s rating.
 
   - The statistical correlational analysis produced the following results:
  
