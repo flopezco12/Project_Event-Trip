@@ -10,7 +10,7 @@ The data collected was in respect of:
  - Data Integration: Data from TripAdvisor and Geoapify were integrated based on location coordinates. A consolidated dataset was created for further analysis.
   
 # Limitations were set to ensure there would be less outliers and more realistic data output.
-1. We limited the calculation of review count to (insert)
+1. We limited the calculation of review count to 5 reviews as that was the limit in the free option for the API
 2. Entertainment spots: We limited the scanning of radius to 10km and 20 Entertainment spots. 
 3. Spa Spots: We limited the scanning of radius 10 km and 20 Spa spots.
 4. Activity Centers: We limited the scanning of radius to 10km and 40 activity centres.
