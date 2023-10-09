@@ -15,7 +15,8 @@ The data collected was in respect of:
 3. Spa Spots: We limited the scanning of radius 10 km and 20 Spa spots.
 4. Activity Centers: We limited the scanning of radius to 10km and 40 activity centres.
 5. Tourism Spots: We limited scanning of radius to 10km and  40 Tourism spots.
-6. We also lmited the data collected on the rental properties to a total poulation of , regardless of ratings but as fairly distributed accross the province as we could obtain.
+6. Water spots: We limited scanning of radius to 10km and 20 water spots
+7. We also lmited the data collected on the rental properties to a total poulation of , regardless of ratings but as fairly distributed accross the province as we could obtain.
 
 # Type of Analysis Conducted
 Exploratory Analysis:
