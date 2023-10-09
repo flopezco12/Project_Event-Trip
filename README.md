@@ -1,7 +1,7 @@
 ## Unveiling the Links: TripAdvisor Ratings and Extrinsic Factors on Vacation Rentals in British Columbia, Canada.
 
 # Introduction
-The purpose of this project was to explore and analyse data from TripAdvisor and Geoapify APIs to gain insights into rental properties in British Columbia, Canada. And also to investigate any discernible relationship between the ratings of these rentals and their proximity to external locations, including tourist sites, activity centres, entertainment spots, water spots, and spa locations.
+The purpose of this project was to explore and analyse data from TripAdvisor and Geoapify APIs to gain insights into rental properties in British Columbia, Canada. And also to investigate any discernible relationship between the ratings of thesee rentals and their proximity to external locations, including tourist sites, activity centres, entertainment spots, water spots, and spa locations.
 
 # Data Collection
 The data collected was in respect of:
